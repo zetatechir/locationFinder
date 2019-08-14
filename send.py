@@ -1,8 +1,8 @@
 #/usr/bin/env python3
 # code by mrsploit
-# Jailbreak & Root TM
-# jilrot.com
-# t.me/jailbreakandroot
+# Jailbreak & zetatech
+# zetatech.ir
+# t.me/ZetaTech_iR
 import telebot, sys
 
 try:
