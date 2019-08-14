@@ -1,5 +1,4 @@
 # Mr.location
-<img src='https://jilrot.com/images/mrlocation.jpg' />
 
 get target location by link
 <br />
@@ -13,7 +12,7 @@ pip3 install pyTelegramBotAPI
 
 # run
 <code>
-  git clone https://github.com/jilrot/mrlocation |
+  git clone https://github.com/zetatechir/locationFinder |
   cd mrlocation |
   python3 mrlocation.py
 </code>
