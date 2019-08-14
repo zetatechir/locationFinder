@@ -1,8 +1,8 @@
 #/usr/bin/env python3
 # code by mrsploit
 # Jailbreak & Root TM
-# jilrot.com
-# t.me/jailbreakandroot
+# ZetaTech.ir
+# t.me/ZetaTech_iR
 
 import os
 os.system("clear")
@@ -13,9 +13,9 @@ print(''' \033[92m
                "&&&'   '&&&"
               "&&&&,   ,&&&&"    Mr.location
               "&&&&&&&&&&&&&"    --------------------
-               "&&&&&&&&&&&"     jilrot.com
+               "&&&&&&&&&&&"     ZetaTech.ir
                 "&&&&&&&&&"
-                 "&&&&&&&"       by Jailbreak & Root TM
+                 "&&&&&&&"       by Jailbreak & ZetaTech
                   "&&&&&"
                    "&&&"
                     "&"  \033[95m
